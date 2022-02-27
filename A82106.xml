@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of His Highnesse the Prince of Wales, to the severall princes and states of Christendome, concerning His Royall Father the King; and his new oath and protestation, touching the Lord Gen. Fairfax, Lieut. Gen. Crumwell, and the Army. Also, the setting forth of the Princes fleet to sea, and their resolution for Ireland, to land an army in Wales, and so for England, for the rescuing of the King from the power of the sword. Together, with a bloudy fight at sea, 14 sayl of ships boarded and taken, and about 40 piece of ordnance. And the declaration and proposals of the Parliament Navy, to the Army. Likewise, a conference between the Lord Gen. Fairfax, Lieut. Gen. Crumwell, and the Lord Admirall VVarwick, touching the King and kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82106</idno>
+            <idno type="STC">Wing D611A</idno>
+            <idno type="STC">Thomason E477_23</idno>
+            <idno type="STC">ESTC R205563</idno>
+            <idno type="EEBO-CITATION">99864908</idno>
+            <idno type="PROQUEST">99864908</idno>
+            <idno type="VID">162533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162533)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E477[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of His Highnesse the Prince of Wales, to the severall princes and states of Christendome, concerning His Royall Father the King; and his new oath and protestation, touching the Lord Gen. Fairfax, Lieut. Gen. Crumwell, and the Army. Also, the setting forth of the Princes fleet to sea, and their resolution for Ireland, to land an army in Wales, and so for England, for the rescuing of the King from the power of the sword. Together, with a bloudy fight at sea, 14 sayl of ships boarded and taken, and about 40 piece of ordnance. And the declaration and proposals of the Parliament Navy, to the Army. Likewise, a conference between the Lord Gen. Fairfax, Lieut. Gen. Crumwell, and the Lord Admirall VVarwick, touching the King and kingdome.</title>
+                  <author>Charles II, King of England, 1630-1685, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Spurious" -- Wing.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Dec: 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162533:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of His Highneſſe the Prince of WALES, <hi>TO</hi> The ſeverall Princes and States of Chriſtendome, concer<g ref="char:EOLhyphen"/>ning His Royall Father the <hi>KING;</hi> And His new Oath and Proteſtation, touching the Lord Gen, <hi>Fairfax,</hi> Lieut. Gen. <hi>Crumwell,</hi> and the Army.</p>
+            <p>
+               <hi>ALSO,</hi> The ſetting forth of the Princes Fleet to Sea, and their Reſo<g ref="char:EOLhyphen"/>lution for <hi>Ireland,</hi> to land an Army in <hi>Wales,</hi> and ſo for <hi>England,</hi> for the reſcuing of the <hi>King</hi> from the power of the Sword.</p>
+            <p>
+               <hi>TOGETHER,</hi> With a bloudy Fight at Sea, 14 Sayl of Ships boarded and taken, and about 40 piece of Ordnance. And the Decla<g ref="char:EOLhyphen"/>ration and Propoſals of the Parliaments Navy, to the ARMY.</p>
+            <p>
+               <hi>LIKEWISE,</hi> A Conference between the Lord Gen. <hi>Fairfax,</hi> Lieut. Gen. <hi>Crumwell,</hi> and the Lord Admirall <hi>VVarwick,</hi> touching the <hi>KING</hi> and <hi>KINGDOME.</hi>
+            </p>
+            <p>Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162533:2"/>
+            <pb n="1" facs="tcp:162533:2"/>
+            <head>NEW PROPOSITIONS FROM THE NAVY TO The Kingdom of <hi>England,</hi> and the Army; concerning the Kings Majeſty, and the Impeached Members of Parliament, now under reſtraint and power of the ſword.</head>
+            <p>VVHen we beheld the glorious ſplendor of Juſtice and Righteouſneſs, beaming forth it ſelf in your Remonſtrance to the Houſe of Commons, we were filled with joy and ſatisfaction, that the divine preſence had again overſhadowed you, and appe<g ref="char:EOLhyphen"/>red thereby to us with ſmiles of love, and pledges of favour, when with the night of ruine we were almoſt overwhelmed
+<pb n="1" facs="tcp:162533:3"/>For which, as we kiſſe the footſtool of that glorious Maje<g ref="char:EOLhyphen"/>ſty who thus rarely brings forth our deliverance; ſo wee cheerfully confeſſe you to be his glorious Inſtrument, wher<g ref="char:EOLhyphen"/>by he hath ſtilled the enemy and the avenger. For, 1. Wee muſt ſeriouſly profeſſe, that though your former procee<g ref="char:EOLhyphen"/>dings againſt that Generation were exceedingly proſpered, beyond the parallell of former ages, and had engraven upon them the kindneſſe of God to a diſtreſſed people; yet they had but ſerved to make us more exquiſitly miſerable, if your former Conqueſts ſhould have acquieſced in the acti<g ref="char:EOLhyphen"/>ons of that Houſe; who were bringing your conquered pri<g ref="char:EOLhyphen"/>ſoner with honour and ſafety to ſit upon his Throne of po<g ref="char:EOLhyphen"/>wer, Majeſty, and Greatneſſe, without ſatisfaction for the bloud that hath been ſpilt both by Sea and Land, or ſuffici<g ref="char:EOLhyphen"/>ent proviſion made for the ſecurity of the liberties of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p n="2">2 We were filled with ſorrow when we ſaw the abomi<g ref="char:EOLhyphen"/>nable Apoſtacy, and degenerated actings of the majority of the Houſe of Commons, who after we had bought their ſe<g ref="char:EOLhyphen"/>curity with our moſt precious bloud and treaſure, ſhould by treating with the King, ſo cruelly ſell us into the bloud and revenge of him, and his confederats, ſo contrary to their firſt principles and Declarations; the conſideration where<g ref="char:EOLhyphen"/>of, as it filled us with amazement, ſo it drew from us there<g ref="char:EOLhyphen"/>of a mutual Remonſtrance, to live and dy, and ſtand and fall with your Excellency, for the eſtabliſhing of peace and righteouſneſſe, in our native, bleeding, and languiſhing King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>
+               <hi>A Declaration of the Prince of</hi> Wales.</p>
+            <p>THe Prince of Wales, with his Councel, hath had ſome conſultation touching the affairs of <hi>England,</hi> and the pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſent ſtate and condition of the King, and are reſolved to
+<pb n="2" facs="tcp:162533:3"/>make ready the Fleet, to put to Sea, having taken an oath &amp; proteſtation, to hazard life and fortune for the reſcuing of his Royall Father (the King) from the power of the Army. Moſt of the Braſſe Guns that were in the revolted ſhips are taken out and ſold, all but ſuch as were fit for the field, and put iron ones in their roome, which ſhips are to be com<g ref="char:EOLhyphen"/>manded by Prince <hi>Rupert,</hi> the Prince is to return to his Mo<g ref="char:EOLhyphen"/>ther, the Duke goes to a Univerſity, this Fleet of ſhips are to go firſt for <hi>Garnſey, Garſey,</hi> and <hi>Silly,</hi> and ſettle thoſe Iſlands, then to <hi>Ireland,</hi> to ſettle the Marq. of <hi>Ormond,</hi> for reducing that Kingdome to the obedience of his Majeſty, and then comes an Army over into Wales, and ſo for England, That ſuch prizes as ſhall be taken, or other kind of Marchandi<g ref="char:EOLhyphen"/>zing Trade given, Agents are diſperſed to the ſeverall Prin<g ref="char:EOLhyphen"/>ces and States of Chriſtendom, for freedom, as formerly with his Majeſty of <hi>England.</hi> This Meſſage is ſaid to be ſent from the Prince to the aforeſaid kingdoms.</p>
+            <p>For augmentation of this Fleet, and to make it more for<g ref="char:EOLhyphen"/>midable againſt the Engliſh, all undone, deeayed, and diſcon<g ref="char:EOLhyphen"/>tented Gentlemen, are invited to joyn and provide ſhips, which is in part done, divers being gone out of the Weſt parts already to <hi>Silly</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>There goes with Prince <hi>Rupert</hi> 1000. Souldiers, beſides Saylors, alſo very many Gentlemen or Reformadoes, whoſe purſes are emptied in <hi>Holland:</hi> the Inhabitants of the Iſland of Garnſey its ſaid, muſt be moulded into Regiments, and employed by Sea or Land, as being like to prove more ad<g ref="char:EOLhyphen"/>vantageous then there livelyhood here: beſides, other nota<g ref="char:EOLhyphen"/>ble deſigns on foot, for the raiſing of new Forces againſt the Engliſh Army.</p>
+            <pb n="4" facs="tcp:162533:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honorable,</salute>
+                  </opener>
+                  <p>HIs, Highneſſe the Prince of <hi>Wales,</hi> having received ſeverall informations &amp; complaints from the Eng<g ref="char:EOLhyphen"/>liſh Marchants, of their great loſſes which they have lately ſuſtaind at Sea by a pretended Fleet for the <hi>King</hi> under the conduct of Sir <hi>William Mucknell,</hi> who (with a with a Squadron of Iriſh ſhips (conſiſting of about 11 in number) lies hovering up and down the narrow Seas, ſeizing on divers Marchants ſhips, and others, to the great retarding and obſtructing of the Trade and Commerce at Sea. In conſideration whereof, his Highneſſe forthwith called a Councel, aboard the Reformation, and after ſome conſulta<g ref="char:EOLhyphen"/>tion, came to theſe reſults, and reſolved.</p>
+                  <p>That a Meſſage ſhould be forthwith ſent to the Mar<g ref="char:EOLhyphen"/>chants of <hi>London,</hi> and others, purporting, That his Highneſſe would take a ſpeedy courſe, for prevention of future inju<g ref="char:EOLhyphen"/>ries, and that he had ſent an expreſſe command to the ſaid Vice Admirall <hi>Mucknell,</hi> to deſiſt from acting any thing whatſoever, that may rend to the obſtructing or hindering of Commerce at Sea, proteſting, That he is ſo far from har<g ref="char:EOLhyphen"/>boring the leaſt thought of violence or oppreſſion, either to the Citizens of <hi>London,</hi> or any other of his Majeſties liege people of <hi>England,</hi> that he would rather ſacrifice his life then be guilty of the leaſt action of tyranny. And therefore deſires that theſe his reſentments may be communicated to the Citizens of <hi>London,</hi> and all others whom it may con<g ref="char:EOLhyphen"/>cern; to the end, that traffique and commerce both by Sea and Land may be maintained and preſerved throughout all his Majeſties Realms and Dominions.</p>
+                  <p>But notwithſtanding all their faire preretices whatſoever, none are more active and inveterate againſt the peace of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+                     <pb n="5" facs="tcp:162533:4"/>than thoſe who are in higheſt eſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>em with the Prince, Divers forces are raiſing in ſeveral parts of theſe Provinces, another Army in <hi>Denmark,</hi> and great proviſion making for War; but what their Deſign is, we cannot as yet diſcover, but it is ſuppoſed for <hi>England.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Brill</hi> 
+                        <date>
+                           <hi>the</hi> 15. <hi>of Decemb.</hi> 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Officers and Souldiers in <hi>Dover</hi> Caſtle have hum<g ref="char:EOLhyphen"/>bly declared their ſenſe and reſolution to his Excellency the Lord Gen. <hi>Fairfax,</hi> deſiring that his Excellency would bee pleaſed to proceed in what is juſtly propoſed, that the King<g ref="char:EOLhyphen"/>dom may not bee beguiled with the ſpecious pretences of our ſubtile adverſaries, but that Delinquents may be puni<g ref="char:EOLhyphen"/>ſhed, our liberties confirmed, and the Kingdom ſetled, to the glory of God, and for his people; for the effecting of which without reſpect to our private intereſts, we ſhall willingly with our lives in our hands, encounter with the great diffi<g ref="char:EOLhyphen"/>culties, which really ingage in what may manifeſt our ſelves,</p>
+            <p>
+               <hi>Your Excellencies and the Kingdoms faithfull ſervants, Decemb.</hi> 18. Letters further from Windſor, that his Ma<g ref="char:EOLhyphen"/>jeſty is expected there this night, and that ſeveral Roomes in the Caſtle are appointed for his accommodation. Divers of the Gentry are gone to meet Him. But whether his reſi<g ref="char:EOLhyphen"/>dence will be there, or at <hi>London,</hi> is yet uncertain. It is ſaid that his Majeſty will be ſuddainly brought to a faire and le<g ref="char:EOLhyphen"/>gall tryal, and that the Generall and Lieut. Gen. are reſolved o act nothing againſt his Majeſties perſon but what ſhalbe agreeable to the known Laws of the Realm, and the com<g ref="char:EOLhyphen"/>mon Rights of the people. And upon <hi>Tueſday</hi> Decemb. 19. the Councel of the Army are reſolved to inſiſt on the buſi<g ref="char:EOLhyphen"/>neſſe, and ſpeedily to proſecute the ſame; and it is given out, that the ſentence will paſſe againſt Major Gen. <hi>Laughorn,</hi> Col. <hi>Poyer,</hi> and Col. <hi>Powell,</hi> to be ſhot to death at <hi>VVindſor,</hi>
+               <pb n="6" facs="tcp:162533:5"/>who being told by an Officer of the Army, that they muſt prepare themſelves to dye, they replied, <hi>Gods will be done, we thank God, we have made our peace with him, and ſhall without fear, undergo what he ſhall be pleaſed to ſuffer men to doe vnto them.</hi>
+            </p>
+            <p>The right Honorable the Lord Admiral <hi>VVarwick</hi> hath de<g ref="char:EOLhyphen"/>clared his ſenſe and reſolution, touching the tranſaction of affairs between the King, Parliament, City, and Army, and is reſolved to joyn with his Excellency and the Army, for the impartiall executing of Juſtice, and ſetling of the peace of the Kingdom. His Lordſhip hath alſo ſomething to offer from the Councell of Sea Officers, in reference to the King and the peace and tranquility of this Nation. And the Army hath alſo ſomething to propoſe to them concerning the Na<g ref="char:EOLhyphen"/>vie.</p>
+            <p>The Lord Gen. <hi>Fairfax,</hi> and Lieut Gen. <hi>Crumwell,</hi> hath gi<g ref="char:EOLhyphen"/>ven the Lord Admirall a viſit, where they congratulated each others good ſucceſſes, and at a Conference, profeſſed joynt concurrence, in what might make the kingdome hap<g ref="char:EOLhyphen"/>py: ſome diſputation hapned, in reference to the King, and ſetling of the Kingdom.</p>
+            <p>
+               <hi>Decemb.</hi> 21. Letters from the Navy ſay, That there hath bin a bloudy Fight at Sea between the Engliſh &amp; the Iriſh, and that the Iriſh have obtained the Conqueſt, and taken 14 Marchants ſhips, and others, 40 piece of Ordnance, and o<g ref="char:EOLhyphen"/>ther rich booty and prize. A ſpeedy courſe will be taken for ſubduing the ſaid Rebels.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
